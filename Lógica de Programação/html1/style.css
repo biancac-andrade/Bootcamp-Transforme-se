@@ -1,0 +1,44 @@
+#foto_perfil {
+  border-radius: 100%;
+  max-width: 150px;
+  border: 1px solid black;
+}
+
+body {
+    background-color: pink;
+}
+
+li {
+
+  list-style-type: none;
+}
+
+/* cor da letra do link  */
+a:link {
+  color: black;
+}
+
+/* cor pro link que foi visitado/clicado  */
+a:visited {
+  color: black;
+}
+
+/* link selecionado  */
+a:active {
+  color: black;
+}
+
+/* muda cor quando passa o mouse */
+
+a:hover {
+  color: rgb(201, 16, 105)
+  opacity: 0.5;
+}
+
+#col-conhecimento{
+  background-color: green;
+}
+
+p,h1{
+  color: white;
+}
