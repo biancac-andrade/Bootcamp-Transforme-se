@@ -26,6 +26,6 @@ public class App {
       System.out.println("Resultado da subtracao é:  " + sub);
       System.out.println("Resultado da divisão é:  " + divi);
 
-
+      entrada.close();
     }
 }
